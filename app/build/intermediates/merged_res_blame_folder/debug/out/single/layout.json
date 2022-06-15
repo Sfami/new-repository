@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/nomhleliwani/AndroidStudioProjects/ObjectDetection/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/info_bottom_sheet.xml",
+        "source": "/Users/nomhleliwani/AndroidStudioProjects/ObjectDetection/app/src/main/res/layout/info_bottom_sheet.xml"
+    },
+    {
+        "merged": "/Users/nomhleliwani/AndroidStudioProjects/ObjectDetection/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/nomhleliwani/AndroidStudioProjects/ObjectDetection/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nomhleliwani/AndroidStudioProjects/ObjectDetection/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_camera.xml",
+        "source": "/Users/nomhleliwani/AndroidStudioProjects/ObjectDetection/app/src/main/res/layout/fragment_camera.xml"
+    }
+]
